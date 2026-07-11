@@ -5,7 +5,7 @@ class student:
         self.Class=Class
         self.subject = subject
         self.mark=mark
-        print(f"My name is{self.name}.\n ")
+        print(f"My name is{self.name},during my {self.Class} i secured {self.mark} .\n Enter next student data ")
 
 while True:
 
