@@ -1,3 +1,0 @@
-Hi everyone.
-We are learning fil I/O.Useing python.
-I like programming in python.
