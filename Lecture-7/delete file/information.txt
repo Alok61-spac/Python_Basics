@@ -1,0 +1,4 @@
+
+Technology has become an important part of our daily lives. It helps people communicate, learn, and work more efficiently. Computers and the internet provide quick access to information from around the world.
+
+I removed the duplicated sentence (it appeared three times in the original — twice merged together and once standalone), fixed the missing spaces, capitalization, and the stray space before the first period.
